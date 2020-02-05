@@ -24,3 +24,6 @@ public class StaticVariableExample {
 
 
 }
+
+
+// Static variables are also known as class variable because they are associated with the class and common for all the instances of class.
